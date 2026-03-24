@@ -107,15 +107,34 @@
 
 // taxminan qilmoqchiman ⬇️
 
-const pi =3.14;
+// const pi =3.14;
 
-let r1 = prompt("saon kiriting");
-let r2 = prompt("son kiriting");
-r1 >r2;
-let S1 = pi * r1;
-let S2 = pi * r2;
-let S = pi * (r1 ** 2 - r2 ** 2);
-console.log(S);
+// let r1 = +prompt("saon kiriting");
+// let r2 = +prompt("son kiriting");
+// let s = r1 >r2;
+// let S1 = pi * r1;
+// let S2 = pi * r2;
+// let S = pi * (r1 ** 2 - r2 ** 2);
+// console.log(Math.floor(S));
+
+
+// let R = prompt("son kiriting")
+// const pi =3.14
+// let L = 2 * pi * R;
+// let S = pi * R ** 2;
+// console.log(Math.floor(S));
+
+
+
+// let x = 1;
+// let y = 1;
+// let X = 2;
+// let Y = 2;
+// let L = Math.sqrt((x -X ) ** 2 + (y - Y) ** 2);
+// console.log(Math.floor(L));
+
+
+
 
 
 
