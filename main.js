@@ -82,6 +82,13 @@
 // console.log(Math.floor(S));
 
 
+let a =prompt("son kiriying");
+let b =prompt("son kiriting");
+let c =prompt("son kiriting");
+let v = a * b * c;
+let S = 2 * (a * b + b * c + a * c);
+
+console.log(S);
 
 
 
