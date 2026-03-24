@@ -62,7 +62,29 @@
 
 
 
-let a =
+// let a = 15;
+// let b = 20;
+// s = a * b
+// p = 2*(a+b);
+// console.log(p);
+
+// let d = prompt("son kiriting");
+// let pi =3.14;
+// let l = pi * d;
+// let r = d/2;
+// let s = pi * r**2;
+// console.log(Math.floor(s));
+
+// let a = prompt("sonkiriting");
+// let v = a**3;
+// let S = 6 * a ** 2;
+
+// console.log(Math.floor(S));
+
+
+
+
+
 
 
 
