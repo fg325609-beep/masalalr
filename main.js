@@ -109,12 +109,12 @@
 
 const pi =3.14;
 
-let r1 =prompt("saon kiriting");
+let r1 = prompt("saon kiriting");
 let r2 = prompt("son kiriting");
 r1 >r2;
 let S1 = pi * r1;
 let S2 = pi * r2;
-let S = pi * (r1 ** 2 - r2 ** 2)
+let S = pi * (r1 ** 2 - r2 ** 2);
 console.log(S);
 
 
