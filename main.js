@@ -96,11 +96,29 @@
 // console.log(Math.floor(m));
 
 
-let a = prompt("a sonini kiriting");
-let b = prompt("b sonini kiriting");
-let c = Math.sqrt(a** 2 + b ** 2);
-let p = a + b + c;
-console.log(Math.floor(p));
+// let a = prompt("a sonini kiriting");
+// let b = prompt("b sonini kiriting");
+// let c = Math.sqrt(a** 2 + b ** 2);
+// let p = a + b + c;
+// console.log(Math.floor(p));
+
+
+
+
+// taxminan qilmoqchiman ⬇️
+
+const pi =3.14;
+
+let r1 =prompt("saon kiriting");
+let r2 = prompt("son kiriting");
+r1 >r2;
+let S1 = pi * r1;
+let S2 = pi * r2;
+let S = pi * (r1 ** 2 - r2 ** 2)
+console.log(S);
+
+
+
 
 
 
