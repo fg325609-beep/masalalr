@@ -93,7 +93,15 @@
 // let a =prompt("donkiriting");
 // let b =prompt("son kiriting")
 // let m =(a+b)/2
-// console.log(m);
+// console.log(Math.floor(m));
+
+
+let a = prompt("a sonini kiriting");
+let b = prompt("b sonini kiriting");
+let c = Math.sqrt(a** 2 + b ** 2);
+let p = a + b + c;
+console.log(Math.floor(p));
+
 
 
 
